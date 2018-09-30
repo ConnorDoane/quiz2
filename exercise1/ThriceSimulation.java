@@ -65,7 +65,6 @@ public class ThriceSimulation {
       }
 
       tallyTotal += tally;
-      System.out.println(tally);
     }
 
     System.out.println("tally average = " + (tallyTotal / 1000));
